@@ -1,0 +1,18 @@
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\bin\Debug\Nutricion.exe.config
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\bin\Debug\Nutricion.exe
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\bin\Debug\Nutricion.pdb
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\obj\Debug\Nutricion.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\obj\Debug\Nutricion.Paciente.resources
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\obj\Debug\Nutricion.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\obj\Debug\Nutricion.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\obj\Debug\Nutricion.exe
+c:\users\estudiante\documents\visual studio 2013\Projects\Nutricion\Nutricion\obj\Debug\Nutricion.pdb
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\bin\Debug\Nutricion.exe.config
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\obj\Debug\Nutricion.exe
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\obj\Debug\Nutricion.pdb
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\bin\Debug\Nutricion.exe
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\bin\Debug\Nutricion.pdb
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\obj\Debug\Nutricion.csprojResolveAssemblyReference.cache
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\obj\Debug\Nutricion.Paciente.resources
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\obj\Debug\Nutricion.Properties.Resources.resources
+F:\U de A\Cursos\Software II\Talleres\20181\Nutricion\Nutricion\obj\Debug\Nutricion.csproj.GenerateResource.Cache
